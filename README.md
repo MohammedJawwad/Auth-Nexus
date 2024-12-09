@@ -34,19 +34,22 @@
 ## 🖼️ Screenshots  
 
 ### 🔑 Signup Page  
-![Signup Page]()  
+![Signup Page](signup.png)  
 
-### 🔓 Login Page  
-![Login Page]()  
-
-### 🔄 Reset Password Page  
-![Reset Password Page]()  
+### 📧 OTP Verification Page  
+![OTP Email](otppage.png)
 
 ### 📧 OTP from Email  
-![OTP Email]()  
+![OTP Email](otpmail.png)  
+
+### 🔓 Login Page  
+![Login Page](login.png)  
 
 ### 🎉 Welcome Success Email  
-![Welcome Email]()  
+![Welcome Email](welcomemail.png)  
+
+### 👩‍💻 Dashboard  
+![Dashboard](dashboard.png)  
 
 ---
 
