@@ -31,6 +31,26 @@
 
 ---
 
+## 🖼️ Screenshots  
+
+### 🔑 Signup Page  
+![Signup Page]()  
+
+### 🔓 Login Page  
+![Login Page]()  
+
+### 🔄 Reset Password Page  
+![Reset Password Page]()  
+
+### 📧 OTP from Email  
+![OTP Email]()  
+
+### 🎉 Welcome Success Email  
+![Welcome Email]()  
+
+---
+
+
 ## 🛠️ Tech Stack  
 
 - **Frontend:** React, TailwindCSS  
